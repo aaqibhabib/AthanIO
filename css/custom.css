@@ -1,0 +1,50 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+
+.media {
+	min-height: 57px;
+}
+
+.main-navigation .navbar-default .navbar-nav > li {
+	background-color: #55acee;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.main-navigation .navbar-default .navbar-nav > li > a {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.fixed-header-on .navbar-default .navbar-nav > li > a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.main-navigation .navbar-default .navbar-nav > li > a:hover, .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
+	color: white;
+	background-color: #3071a9;
+}
+
+/*
+.btn {
+	background-color: #55acee;
+}
+*/
+
+.banner:after {
+	background-color: rgba(0, 0, 0, 0.7)
+}
+
+.header {
+	background-color: transparent;
+}
