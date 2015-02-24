@@ -48,3 +48,7 @@ File Description: Place here your custom CSS styles
 .header {
 	background-color: transparent;
 }
+
+.privacy-page:not(.fixed-header-on) .header {
+	background-color: rgba(0, 0, 0, 0.7);
+}
